@@ -2,7 +2,7 @@
 
 ### <q>Semua dalam Satu Tautan</q>
 
-A microsite for professionals and businesses to manage and share digital profiles quickly and conveniently in one link.
+A microsite builder for professionals and businesses to manage and share digital profiles quickly and conveniently in one link.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-taulink-gray?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/taulink)
 [![Instagram Badge](https://img.shields.io/badge/-taulink.id-gray?logo=instagram&logoColor=white)](https://www.instagram.com/taulink.id)
